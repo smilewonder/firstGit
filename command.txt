@@ -14,6 +14,8 @@ cd class	进入class 文件夹
 pwd 	查询当前目录
 
 
+change
+
 
 module load fdtd
 fdtd-s
