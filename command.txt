@@ -1,0 +1,34 @@
+cd .. 	返回上一级目录
+
+cd d	进入d盘
+mxlin@mxlin MINGW64 /d
+
+ls	查询内容
+'$RECYCLE.BIN'/          LenovoSoftstore/              Wonder/
+ BaiduNetdiskDownload/   MailMasterData/               class/
+ Desktop/                Software/                     python/
+ EngFiles/              'System Volume Information'/   温馨家园/
+
+cd class	进入class 文件夹
+
+pwd 	查询当前目录
+
+
+
+module load fdtd
+fdtd-s
+Zihan对所有人 09:48 PM
+cd ls mkdir chmod
+rm
+https://blog.csdn.net/qq_43757578/article/details/123574452
+https://blog.csdn.net/Rinki123456/article/details/125668381
+slarm
+我对所有人 09:49 PM
+slurm
+Zihan对所有人 09:53 PM
+sbatch scancel squeue
+purge
+cd /scratch
+cd /scratch/mlin
+cd mlin
+mkdir mlin
